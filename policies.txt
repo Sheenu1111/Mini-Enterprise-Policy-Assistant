@@ -1,0 +1,10 @@
+01 Annual Leave — Full-time employees receive 25 working days of annual leave per year. Leave requests must
+be submitted at least 7 days in advance and approved by the reporting manager.
+02 Remote Work — Employees may work remotely up to 2 days per week with manager approval. Remote work
+requests must be submitted before the start of the working week.
+03 IT Support — Employees experiencing technical issues must submit a ticket to the IT department. Critical
+system outages should be reported immediately to the IT support team.
+04 Expense Reimbursement — Business expenses must be submitted within 30 days of purchase. All
+reimbursement requests must include a valid receipt and manager approval.
+05 Sick Leave — Employees must notify their manager when taking sick leave. A medical certificate is required
+for absences exceeding 2 consecutive working days.
