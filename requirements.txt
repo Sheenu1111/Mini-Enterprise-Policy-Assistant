@@ -4,3 +4,5 @@ sentence-transformers
 scikit-learn
 anthropic
 
+
+It is better to implement access control based on the roles and departments of each employees. This will verify the employee's identity and department before retrieving the policy, so that only authorized persons could access the policy documents.
